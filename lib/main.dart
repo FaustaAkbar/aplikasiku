@@ -27,7 +27,7 @@ class app extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                   letterSpacing: 9,
                   fontFamily: 'Winter',
-                  decorationStyle: TextDecorationStyle.solid,
+                  decorationStyle: TextDecorationStyle.wavy,
                   decoration: TextDecoration.underline,
                   decorationColor: Colors.red,
                   decorationThickness: 4),
